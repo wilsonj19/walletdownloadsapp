@@ -1,0 +1,12 @@
+@import './variables/colors';
+@import './variables/mediaquerys';
+@import './variables/controls';
+@import './variables/sidebar';
+
+
+.wda-container{
+  height: 92%;
+  .wda-row{
+    height: 92%;
+  }
+}
